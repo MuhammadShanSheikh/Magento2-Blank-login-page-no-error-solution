@@ -48,11 +48,4 @@ Magento2 login page not working<br>
 Magento2 login page not shown<br>
 Magento2 login page not showing<br>
 
-**Contact For Personal Training, Assignments and Projects**<br>
-
-**Sr. Web Developer<br>
-Muhammad Shan Sheikh<br>
-Mobile/Whatsapp: +923336747574<br>
-Skype: sheikh.shan28**<br>
-
 Keep learning and Sharing :)<br>
